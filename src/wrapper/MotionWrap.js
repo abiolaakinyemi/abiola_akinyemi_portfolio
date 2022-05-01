@@ -13,3 +13,4 @@ export const MotionWrap = (Component, classNames) =>
       </motion.div>
     );
   };
+export default MotionWrap;
