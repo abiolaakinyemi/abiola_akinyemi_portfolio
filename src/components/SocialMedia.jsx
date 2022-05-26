@@ -6,7 +6,11 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
       <div>
-        <a href="https://twitter.com/Akindan_le" target="_blank">
+        <a
+          href="https://twitter.com/Akindan_le"
+          target="_blank"
+          rel="noreferrer"
+        >
           <BsTwitter />
         </a>
       </div>
