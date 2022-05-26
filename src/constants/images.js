@@ -27,6 +27,7 @@ import amazon from "../assets/amazon.png";
 import bolt from "../assets/bolt.png";
 import spotify from "../assets/spotify.png";
 
+// eslint-disable-next-line
 export default {
   email,
   logo,

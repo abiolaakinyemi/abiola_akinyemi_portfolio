@@ -8,6 +8,7 @@ const SocialMedia = () => {
       <div>
         <a
           href="https://twitter.com/Akindan_le"
+          // eslint-disable-next-line
           target="_blank"
           rel="noreferrer noopener"
           aria-hidden="true"
