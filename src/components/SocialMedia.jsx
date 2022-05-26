@@ -9,7 +9,8 @@ const SocialMedia = () => {
         <a
           href="https://twitter.com/Akindan_le"
           target="_blank"
-          rel="noreferrer"
+          rel="noreferrer noopener"
+          aria-hidden="true"
         >
           <BsTwitter />
         </a>
