@@ -21,6 +21,7 @@ import about02 from "../assets/about02.png";
 import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 import profile from "../assets/profile.png";
+import profile2 from "../assets/profile2.png";
 import circle from "../assets/circle.svg";
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -52,6 +53,7 @@ export default {
   about03,
   about04,
   profile,
+  profile2,
   circle,
   adidas,
   amazon,
